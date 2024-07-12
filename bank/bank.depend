@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1713115510 source:c:\users\patrik p\downloads\bankmanagement\bank\main.c
+	"header.h"
+
+1713273975 c:\users\patrik p\downloads\bankmanagement\bank\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1720781663 source:c:\users\patrik p\downloads\bankmanagement\bank\create_account.c
+	"header.h"
+
+1719078468 source:c:\users\patrik p\downloads\bankmanagement\bank\login_account.c
+	"header.h"
+
+1720794783 source:c:\users\patrik p\downloads\bankmanagement\bank\menu.c
+	"header.h"
+
+1713021655 source:c:\users\patrik p\downloads\bankmanagement\bank\view_account.c
+	"header.h"
+
+1720794831 source:c:\users\patrik p\downloads\bankmanagement\bank\edit_account.c
+	"header.h"
+
+1720773839 source:c:\users\patrik p\downloads\bankmanagement\bank\findiban.c
+	"header.h"
+
+1720790700 source:c:\users\patrik p\downloads\bankmanagement\bank\delete_account.c
+	"header.h"
+
+1720790700 source:c:\users\patrik p\downloads\bankmanagement\bank\transaction.c
+	"header.h"
+
+1713275665 source:c:\users\patrik p\downloads\bankmanagement\bank\validate_iban.c
+	"header.h"
+
